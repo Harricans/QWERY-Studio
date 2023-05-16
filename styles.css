@@ -38,7 +38,6 @@ h1 {
 }
 
 .key-large {
-  grid-column: span 2;
   width: 200px;
   text-align: center;
 }
